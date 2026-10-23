@@ -1,16 +1,15 @@
-## Hi there 👋
+# Pratyaydeep Ghanta
 
-<!--
-**pratyaydeep/pratyaydeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend engineer at [Snapmint](https://snapmint.com), building event-driven services and reliable backend infrastructure at scale.
 
-Here are some ideas to get you started:
+### What I work with
+**Core:** Java · Python · JavaScript · Rust · SQL  
+**Backend:** Kafka · Redis · PostgreSQL · MongoDB · Distributed Systems  
+**Infra:** AWS · Kubernetes · Docker · SQS · Jenkins  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently building
+- [Kibbr](https://github.com/pratyaydeep/kibbr) — a Rust-based log store focused on compression and fast queries
+- Event-driven order fulfilment and resilient shipment-sync pipelines at Snapmint
+
+### Previously
+At [Juspay](https://juspay.in), built workflow automation and AI-assisted diagnostics for fintech operations, cutting support response times from 4 hours to under 1 hour. Also reduced AWS spend by ~$12K/month and cut merchant onboarding from weeks to days.
