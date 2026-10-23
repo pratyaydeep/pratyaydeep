@@ -8,7 +8,7 @@ Backend engineer at [Snapmint](https://snapmint.com), building event-driven serv
 **Infra:** AWS · Kubernetes · Docker · SQS · Jenkins  
 
 ### Currently building
-- [kibbr](https://github.com/pratyaydeep/kibbr),a Rust-based log store focused on compression and fast queries
+- [kibbr](https://github.com/pratyaydeep/kibbr), a Rust-based log database focused on compression and fast queries
 - Event-driven order fulfilment and resilient shipment-sync pipelines at Snapmint
 
 ### Previously
